@@ -42,8 +42,4 @@ Sou um desenvolvedor focado em construir aplicações web robustas e escaláveis
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **E-mail:** seu-email@exemplo.com
-
----
-*"A programação não é sobre o que você sabe; é sobre o que você pode descobrir."*
+- **LinkedIn:** [linkedin.com/in/kaua-nogueira](https://www.linkedin.com/in/kaua-nogueira/)
